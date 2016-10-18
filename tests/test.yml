@@ -1,5 +1,5 @@
 ---
 - hosts: localhost
   remote_user: root
-  roles:
-    - apache2-vhosts
+  roles: []
+    #- apache2-vhosts
