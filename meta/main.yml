@@ -7,7 +7,14 @@ galaxy_info:
     - name: Ubuntu
       versions:
         - xenial
-  categories:
+  galaxy_tags:
     - web
+    - apache2
+    - apache
+    - virtualhost
+    - virtualhosts
+    - website
+    - webhost
+    - webhosting
 dependencies: 
   - geerlingguy.apache
